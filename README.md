@@ -300,6 +300,11 @@ For questions about these terms, technical support, or other inquiries, use the 
 <p align="right"><a href="#top">↑ Back to top</a></p>
 
 ---
+A **System** option follows your device's language and
+keeps up if you change it while the app is open.
+Languages: Português · English · Italiano · 日本語 · Español · Français · Deutsch · 中文 · 한국어
+
+---
 
 ## Contact
 
@@ -316,20 +321,7 @@ Please use the official store listing to find the current support contact detail
 <div align="center">
 <sub>
 Aeternum: Swiss Precision is a general-purpose digital toolkit. It is not a bank, financial institution, investment adviser, or official financial data provider.<br>
-© Marcelo Rodrigo Alexandre. All rights reserved.
+© Marcelo Rodrigo Alexandre. All rights reserved. 
 </sub>
 </div>
-## Languages
 
-Português · English · Italiano · 日本語 · Español · Français · Deutsch · 中文 · 한국어
-
-A **System** option follows your device's language and
-keeps up if you change it while the app is open.
-
----
-
-Questions about this policy: **ongsuporteunionmundial@gmail.com**
-
----
-
-*Aeternum: Swiss Precision — Marcelo Rodrigo Alexandre*
