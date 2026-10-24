@@ -319,3 +319,17 @@ Aeternum: Swiss Precision is a general-purpose digital toolkit. It is not a bank
 © Marcelo Rodrigo Alexandre. All rights reserved.
 </sub>
 </div>
+## Languages
+
+Português · English · Italiano · 日本語 · Español · Français · Deutsch · 中文 · 한국어
+
+A **System** option follows your device's language and
+keeps up if you change it while the app is open.
+
+---
+
+Questions about this policy: **ongsuporteunionmundial@gmail.com**
+
+---
+
+*Aeternum: Swiss Precision — Marcelo Rodrigo Alexandre*
